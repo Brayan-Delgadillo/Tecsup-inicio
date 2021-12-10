@@ -1,0 +1,14 @@
+header{
+    background: black
+    ;
+}
+header,a{
+    color: white
+    ;
+}
+#uno{
+    background: black;
+}
+#dos{
+    background: white;
+}
